@@ -3,7 +3,7 @@
 This repository contains the implementation of the Difference of Max Affine (DoMA) Piecewise Linear Regression method, developed for the NeurIPS 2025 main Track.
 
 ## Take a Trip Down Convergence Lane with ABGD
-![Figure showing linear convergence by ABGD]([Synthetic%ABGD%(Matlab)/DMax%Figures/Linear_Con_Example.png](https://github.com/NeurIPS-2025-PL/DoMA-Piecewise-Linear-Regression/blob/a81d287f17a6a74295dd2c3a977ee7c032e0b775/Synthetic%20ABGD%20(Matlab)/DMax%20Figures/Linear_Con_Example.png))
+![Figure showing linear convergence by ABGD](https://github.com/NeurIPS-2025-PL/DoMA-Piecewise-Linear-Regression/blob/a81d287f17a6a74295dd2c3a977ee7c032e0b775/Synthetic%20ABGD%20(Matlab)/DMax%20Figures/Linear_Con_Example.png)
 
 
 
