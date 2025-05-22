@@ -2,6 +2,11 @@
 
 This repository contains the implementation of the Difference of Max Affine (DoMA) Piecewise Linear Regression method, developed for the NeurIPS 2025 main Track.
 
+## Take a Trip Down Convergence Lane with ABGD
+![Figure showing linear convergence by ABGD](/Synthetic ABGD (Matlab)/DMax Figures/Linear_Con_Example.png)
+
+
+
 ## Overview
 
 The DoMA method is designed to model complex, non-linear relationships within data by partitioning the input space into regions, each governed by its own affine function. This piecewise approach allows for greater flexibility and precision in capturing underlying data patterns.
