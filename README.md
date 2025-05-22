@@ -1,6 +1,6 @@
 # DoMA: Difference of Max Affine Piecewise Linear Regression
 
-This repository contains the implementation of the Difference of Max Affine (DoMA) Piecewise Linear Regression method, developed for the NeurIPS 2025 main Track.
+This repository contains the implementation of the Difference of Max Affine (DoMA) Piecewise Linear Regression method, developed for the NeurIPS 2025 main Track. The solution we propose is ABGD (a variant of gradient descent) with a predetermined adaptive step size formula (no hyperparameter tuning\!). When the input dimension is `d`, only a sample size of `O(d)` is required (check Theorem 4.4).
 
 ## Take a Trip Down Convergence Lane with ABGD
 <p align="center">
