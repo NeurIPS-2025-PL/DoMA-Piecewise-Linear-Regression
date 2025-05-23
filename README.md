@@ -13,7 +13,7 @@ Next is an example of a piecewise linear function (blue), samples from this func
 ## Repository contents:
 The repository is structured into two main components:
 
-  - **Synthetic ABGD**: This module focuses on generating synthetic datasets to validate the theoretical foundations of the ABGD method. It includes tools for data generation, model training, and evaluation to confirm theoretical results.
+  - **Synthetic ABGD**: This module focuses on generating synthetic datasets to validate the theoretical foundations of the ABGD method. It includes tools for data generation, model training, and evaluation.
 
-  - **ABGD_Vs_The_World**: This module benchmarks the ABGD method acting on a DOMA function against existing piecewise linear regression techniques using real-world datasets. It provides comparative analyses to demonstrate the effectiveness and advantages of the DoMA+ABGD approach.
+  - **ABGD_Vs_The_World**: This module benchmarks the ABGD method acting on a DOMA function against existing piecewise linear regression techniques using real-world datasets (available from Matlab's Statistics & ML Toolbox). It provides comparative analyses to demonstrate the effectiveness and advantages of the DoMA+ABGD approach.
 
