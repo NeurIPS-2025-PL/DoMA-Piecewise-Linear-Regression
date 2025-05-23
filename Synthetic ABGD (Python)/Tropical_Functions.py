@@ -14,7 +14,7 @@ def Max_Function(X,Model,sig=0)-> tuple[np.ndarray, np.ndarray]:
     return y[:,None], Cj[:,None]
 
 # DMax Affine Function:
-def DMax_Function(X,Model,sig=0)-> tuple[np.ndarray, np.ndarray]:
+def DMax_Function(X,Model,sig=0)-> tuple[np.ndarray, np.ndarray, np.ndarray]:
     # Input:
     # X:        Covariates \in R^ (d+1) x n
     # Model:    Model Parameters \in R^ (d+1) x 2k
