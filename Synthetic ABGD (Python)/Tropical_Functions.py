@@ -20,7 +20,7 @@ def DMax_Function(X,Model,sig=0)-> tuple[np.ndarray, np.ndarray]:
     # Model:    Model Parameters \in R^ (d+1) x 2k
     # sig:      Noise standard Deviation
 
-    #Output:    Max-affine function evaluation and index of the linear segment
+    #Output:    Difference of Max-affine function evaluation and index pairs of the linear segment
     k = Model.shape[1]//2
     yj = X.T @ Model[:,:k]
     ytop = yj.max(axis = 1) 
